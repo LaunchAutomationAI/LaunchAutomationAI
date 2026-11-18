@@ -4,6 +4,12 @@ We build custom websites, browser-based business apps, AI command centers, CRM s
 
 Our work connects strategy, design, development, lead capture, appointment booking, follow-up, and ongoing support so businesses can respond faster and operate with less manual work.
 
+## Preview a redesign of your website
+
+[See your free website redesign and SEO report](https://launchautomation.ai/redesign?utm_source=github&utm_medium=referral&utm_campaign=redesign_launch_20261118).
+
+Enter your current website address to see a home-page redesign preview on a laptop and phone, with two free preview revisions and an SEO report. No email or card is required for the preview, and your current website stays unchanged. A finished working website and full SEO work are available through a paid plan.
+
 ## Explore our work
 
 - [Custom websites and website redesigns](https://launchautomation.ai/custom)
